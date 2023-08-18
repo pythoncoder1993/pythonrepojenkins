@@ -1,0 +1,6 @@
+print("Starting the script")
+print("*******************")
+print("*******************")
+print("*******************")
+print("*******************")
+print("Ending script")
